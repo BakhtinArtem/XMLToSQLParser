@@ -1,0 +1,13 @@
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Schemas/Obec.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Controller/Controllers.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Schemas/Repository/ObecRepo.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Schemas/Repository/CastObceRepo.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Downloader/IDownloader.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/XmlToSqlParserApplication.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Processor/IProcessor.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Parser/IParser.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Parser/XMLParser.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Processor/XMLProcessor.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Schemas/CastObce.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Schemas/Response.java
+/Users/artembakhtin/Desktop/xmlToSqlParser/backend/src/main/java/com/bakhtin/app/xmlToSqlParser/Downloader/ZipDownloader.java
