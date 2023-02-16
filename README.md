@@ -12,7 +12,7 @@ Parse Obec and CastObce from given zipped XML file (from url). Application consi
 
 ## Demo
 
-MISSING :<
+![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/66804919/219335147-c924e625-9fff-4f40-b9d9-3e5c96e48294.gif)
 
 ## Basic usage
 
