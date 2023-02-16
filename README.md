@@ -8,7 +8,7 @@
 
 ## Description
 
-Parse Obec and CastObce from given zipped XML file (from url). Application consist of backend part written in **Java** with framework **Spring boot**, frontend part written mostly using **ReactJS** and **MySQL** database. Application is containerized using *Docker Compose*.
+Parse Obec and CastObce from given zipped XML file (from url). The main goal of aplication is to parse required data from given zipped XML file and then save to local MySQL database. Application consist of backend part written in **Java** with framework **Spring boot**, frontend part written mostly using **ReactJS** and **MySQL** database. Application is containerized using *Docker Compose*.
 
 ## Demo
 
@@ -24,7 +24,7 @@ Application can be build using standard Docker Compose commands:
 
 ## Interface
 
-Interface is yet simple, but useful. User can enter url inside box and using `Send Url` button send request to server to process zip available by this url. User will be informed via notification if command was successful or error will be printed. After successful operation user can print information about MySQL DB using `Dumb db` button. In following text area will appear result of this request. Also user is available to clear full information in MySQL tables using `Clear tables` button.
+Interface is yet simple, but useful. User can enter url (containing link to download XML file) inside box and using `Send Url` button send request to server to process zip available by this url. User will be informed via notification if command was successful or error will be printed. After successful operation user can print information about MySQL DB using `Dumb db` button. In following text area will appear result of this request. Also user is available to clear full information in MySQL tables using `Clear tables` button.
 
 ## Libraries&Framework
 
