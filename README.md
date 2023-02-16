@@ -20,7 +20,7 @@ Application can be build using standard Docker Compose commands:
 
     - `docker compose up` to build application
     - `docker compose pause` to pause execution of container
-    - `docker compose dawn` to remove containers
+    - `docker compose down` to remove containers
 
 ## Interface
 
